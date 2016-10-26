@@ -1,0 +1,13 @@
+{
+  "name": "KulenDayz Chrome App",
+  "description": "Chrome platform app.",
+  "manifest_version": 2,
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions": ["gcm", "storage", "notifications", "https://*.servicebus.windows.net/*"],
+  "icons": { "128": "KDLogo.png" }
+}

@@ -1,0 +1,129 @@
+﻿<br />
+<br />
+<div class="row">
+    <h3>Conference offer 6 tracks: Development, DataBases, ITPro, Web, Project Management and Open Sessions.</h3>
+</div>
+<div class="row">
+    <div class="col-md-1">
+        <h3><span style="background-color:#DA4726" class="label label-warning">Dev</span> </h3>
+    </div>
+    <div class="col-md-1">
+        <h3><span style="background-color:#613733" class="label label-warning">DB</span> </h3>
+    </div>
+    <div class="col-md-1">
+        <h3><span style="background-color:#EC7535" class="label label-warning">ITPro</span> </h3>
+    </div>
+    <div class="col-md-1">
+        <h3><span style="background-color:#8C3933" class="label label-warning">Web</span> </h3>
+    </div>
+    <div class="col-md-1">
+        <h3><span style="background-color:#DA4726" class="label label-warning">PM</span> </h3>
+    </div>
+    <div class="col-md-1">
+        <h3><span style="background-color:#EC7535" class="label label-warning">Open Sessions</span> </h3>
+    </div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<h3>Simple notification</h3>
+<div class="row">
+    <div class="col-md-12">
+        <h4>Enter notification message</h4>
+        <input id="text" type="text" />
+        <input id="btn" value="Send simple push notifications" type="button" class="btn" />
+    </div>
+</div>
+<hr />
+<h3>Notification with text in two rows</h3>
+<div class="row">
+    <div class="col-md-12">
+        <h4>Enter notification message</h4>
+        <input id="textBold" type="text" />
+        <input id="btnBold" value="Send push notifications with bold text" type="button" class="btn" />
+    </div>
+</div>
+<hr />
+<h3>Notification with picture</h3>
+<div class="row">
+    <div class="col-md-12">
+        <h4>Enter notification message</h4>
+        <input id="textPicture" type="text" />
+        <input id="btnPicture" value="Send push notifications with picture" type="button" class="btn" />
+    </div>
+</div>
+@section scripts{
+
+<script type="text/javascript">
+    $('#btn').click(function()
+    {
+        var message = $('#text').val();
+        var url = "/api/Notifications?message="+message;
+
+       
+        $.ajax({
+            type: 'POST',
+            url: url,
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader("Authorization", "Web");
+            },
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            success: function (data) {
+                alert("message sent");
+            },
+            error: function (xhr, status, error) {
+ 
+            }
+        });
+
+    })
+
+    $('#btnBold').click(function () {
+        var message = $('#textBold').val();
+        var url = "/api/Notifications/Bold?message=" + message;
+
+
+        $.ajax({
+            type: 'POST',
+            url: url,
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader("Authorization", "Web");
+            },
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            success: function (data) {
+                alert("message sent");
+            },
+            error: function (xhr, status, error) {
+
+            }
+        });
+
+    })
+
+    $('#btnPicture').click(function () {
+        var message = $('#textPicture').val();
+        var url = "/api/Notifications/Picture?message=" + message;
+
+
+        $.ajax({
+            type: 'POST',
+            url: url,
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader("Authorization", "Web");
+            },
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            success: function (data) {
+                alert("message sent");
+            },
+            error: function (xhr, status, error) {
+
+            }
+        });
+
+    })
+</script>
+    }

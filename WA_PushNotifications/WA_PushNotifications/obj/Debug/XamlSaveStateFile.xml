@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\wa_pushnotifications\obj\debug\intermediatexaml\kdpushnotification.exe" HashGuid="162f93dc-6a13-f0eb-3955-29e9dfc73b52" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\packages\microsoft.data.edm.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.edm.portable.dll" HashGuid="f045e1a5-0e06-a083-1449-ff381767d07b" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\packages\microsoft.data.odata.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.odata.portable.dll" HashGuid="286ad8e6-6a8c-62c8-4d27-161dd3caf466" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\packages\windowsazure.messaging.managed.0.1.7.8\lib\netcore45\microsoft.windowsazure.messaging.managed.dll" HashGuid="fc743b07-0e25-3384-ff82-3dec52ff762a" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\packages\windowsazure.storage-preview.3.2.0-preview\lib\win8\microsoft.windowsazure.storage.winmd" HashGuid="8566e4e6-0d93-d01c-994d-c25df144379c" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\packages\newtonsoft.json.6.0.3\lib\netcore45\newtonsoft.json.dll" HashGuid="7727b668-bdac-5612-b497-e55cbaabf5af" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications\packages\system.spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\system.spatial.portable.dll" HashGuid="5fe7c047-94c0-1029-eb83-ede093ee2841" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

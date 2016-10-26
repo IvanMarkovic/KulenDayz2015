@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AzureSQL-Web.config Connection String" description="AzureSQL Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Users.csdl|res://*/Models.Users.ssdl|res://*/Models.Users.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=ovqx5fzred.database.windows.net;user id=Administrator1;password=Passw0rd;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\imarkovic\\Projects\\NotificationBackend\\NotificationBackend\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureSQL']/@connectionString" />
+  </parameter>
+  <parameter name="NotificationBackend_dbEntities-Web.config Connection String" description="NotificationBackend_dbEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Users.csdl|res://*/Models.Users.ssdl|res://*/Models.Users.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=ovqx5fzred.database.windows.net,1433;initial catalog=NotificationBackend_db;user id=Administrator1;password=Passw0rd;multipleactiveresultsets=True;application name=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\imarkovic\\Projects\\NotificationBackend\\NotificationBackend\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NotificationBackend_dbEntities']/@connectionString" />
+  </parameter>
+</parameters>

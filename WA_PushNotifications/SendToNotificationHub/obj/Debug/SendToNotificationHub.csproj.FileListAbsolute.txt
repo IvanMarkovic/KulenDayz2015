@@ -1,0 +1,6 @@
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb

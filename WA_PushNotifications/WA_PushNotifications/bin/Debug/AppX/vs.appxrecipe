@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UOF981T</Machine>
+    <WindowsUser>Ivan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>29726markovic.WAPushNotifications</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1D861ECE98D9E179EA829A8FE850E94DA6D53247BB76934BEAC8A0B5B4E32C66</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>29726markovic.WAPushNotifications_1.1.0.0_neutral__r71z1zfsc71y8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>29726markovic.WAPushNotifications_r71z1zfsc71y8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>29726markovic.WAPushNotifications</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=6B1D9001-7A65-435F-B03D-2B4E64698E49</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-04T16:19:36.388</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\KDPushNotification.exe">
+      <PackagePath>KDPushNotification.exe</PackagePath>
+      <Modified>2015-09-05T13:24:04.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\Microsoft.Data.Edm.Portable.dll">
+      <PackagePath>Microsoft.Data.Edm.Portable.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\Microsoft.Data.OData.Portable.dll">
+      <PackagePath>Microsoft.Data.OData.Portable.dll</PackagePath>
+      <Modified>2015-08-22T11:11:14.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\WindowsAzure.Messaging.Managed.0.1.7.8\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+      <Modified>2015-08-22T11:11:21.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-08-22T11:11:18.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\System.Spatial.Portable.dll">
+      <PackagePath>System.Spatial.Portable.dll</PackagePath>
+      <Modified>2015-08-22T11:11:19.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\de\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>de\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\es\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>es\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\fr\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\it\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>it\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\ja\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\ko\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:10.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\ru\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:11.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hans\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:11.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hant\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:11.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\de\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>de\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\es\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>es\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\fr\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>fr\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\it\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>it\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\ja\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>ja\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\ko\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>ko\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\ru\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>ru\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hans\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hant\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:15.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\de\System.Spatial.Portable.resources.dll">
+      <PackagePath>de\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:19.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\es\System.Spatial.Portable.resources.dll">
+      <PackagePath>es\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:19.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\fr\System.Spatial.Portable.resources.dll">
+      <PackagePath>fr\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\it\System.Spatial.Portable.resources.dll">
+      <PackagePath>it\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\ja\System.Spatial.Portable.resources.dll">
+      <PackagePath>ja\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\ko\System.Spatial.Portable.resources.dll">
+      <PackagePath>ko\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\ru\System.Spatial.Portable.resources.dll">
+      <PackagePath>ru\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hans\System.Spatial.Portable.resources.dll">
+      <PackagePath>zh-Hans\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hant\System.Spatial.Portable.resources.dll">
+      <PackagePath>zh-Hant\System.Spatial.Portable.resources.dll</PackagePath>
+      <Modified>2015-08-22T11:11:20.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\packages\WindowsAzure.Storage-Preview.3.2.0-preview\lib\win8\Microsoft.WindowsAzure.Storage.winmd">
+      <PackagePath>Microsoft.WindowsAzure.Storage.winmd</PackagePath>
+      <Modified>2015-08-22T11:11:21.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-22T11:11:22.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-22T11:11:22.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-22T11:11:22.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-22T11:11:22.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\Images\Kulendayz.png">
+      <PackagePath>Images\Kulendayz.png</PackagePath>
+      <Modified>2015-08-22T13:51:42.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-04T16:19:32.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-04T16:19:32.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\RichPush.xbf">
+      <PackagePath>RichPush.xbf</PackagePath>
+      <Modified>2015-09-04T16:19:32.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\Selector.xbf">
+      <PackagePath>Selector.xbf</PackagePath>
+      <Modified>2015-09-04T16:19:32.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\KDPushNotification.xr.xml">
+      <PackagePath>KDPushNotification.xr.xml</PackagePath>
+      <Modified>2015-09-02T21:28:52.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications\WA_PushNotifications\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-04T16:37:04.237</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

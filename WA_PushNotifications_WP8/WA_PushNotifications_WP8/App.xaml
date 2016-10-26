@@ -1,0 +1,16 @@
+﻿<Application
+    x:Class="KDPushNotification_WP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:KDPushNotification_WP">
+
+
+    <Application.Resources>
+        <SolidColorBrush x:Key="AppBarToggleButtonCheckedBackgroundThemeBrush" Color="#DD4926" />
+        <SolidColorBrush x:Key="AppBarToggleButtonCheckedForegroundThemeBrush" Color="White" />
+        <SolidColorBrush x:Key="AppBarItemForegroundThemeBrush" Color="#DD4926" />
+        <SolidColorBrush x:Key="ToggleSwitchCurtainBackgroundThemeBrush" Color="#DD4926" />
+        <SolidColorBrush x:Key="ToggleSwitchCurtainPointerOverBackgroundThemeBrush" Color="#DD4926" />
+        <SolidColorBrush x:Key="ToggleSwitchCurtainPressedBackgroundThemeBrush" Color="#DD4926" />
+    </Application.Resources>
+</Application>

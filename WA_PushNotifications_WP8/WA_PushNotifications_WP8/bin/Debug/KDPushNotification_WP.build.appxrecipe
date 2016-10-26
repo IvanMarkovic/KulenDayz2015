@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UOF981T</Machine>
+    <WindowsUser>Ivan</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c2c272b2-6d4e-4606-84c7-f0d911a248b1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\KDPushNotification_WP.exe">
+      <PackagePath>KDPushNotification_WP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\packages\WindowsAzure.Messaging.Managed.0.1.7.8\lib\wpa81\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\Images\Kulendayz.png">
+      <PackagePath>Images\Kulendayz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\Selector.xbf">
+      <PackagePath>Selector.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\KDPushNotification_WP.xr.xml">
+      <PackagePath>KDPushNotification_WP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ivan\Desktop\KulenDayz\WA_PushNotifications_WP8\WA_PushNotifications_WP8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

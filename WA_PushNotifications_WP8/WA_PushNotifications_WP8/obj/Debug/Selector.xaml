@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="KDPushNotification_WP.Selector"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:KDPushNotification_WP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="White">
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">KDPushNotification_WindowsStoreApp</x:String>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#DD4926"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Foreground" Value="#DD4926"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#DD4926"/>
+        </Style>
+        <Style TargetType="PasswordBox">
+            <Setter Property="Foreground" Value="#DD4926"/>
+            <Setter Property="BorderBrush" Value="#DD4926"/>
+            <Setter Property="Background" Value="Transparent"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Foreground" Value="#DD4926"/>
+            <Setter Property="BorderBrush" Value="#DD4926"/>
+        </Style>
+        <Style TargetType="AppBarToggleButton">
+            <Setter Property="Foreground" Value="#DD4926"/>
+            <Setter Property="BorderBrush" Value="#DD4926"/>
+            <Setter Property="BorderBrush" Value="#DD4926"/>
+        </Style>
+    </Page.Resources>
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <!-- Title Panel -->
+        <StackPanel  Grid.Row="0" Grid.ColumnSpan="3" Margin="19,0,0,0">
+            <TextBlock FontSize="20" Text="KulenDayz 2015 Notification App"  Margin="0,12,0,0"/>
+            <TextBlock FontSize="50" Text="Tracks" Margin="0,10,0,26.5" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+        <AppBarToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0"   Icon="Accept" Name="DataBase" Label="DataBase"></AppBarToggleButton>
+        <AppBarToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Icon="Accept" Name="ProjectManagement" Label="ProjectManagement"   />
+        <AppBarToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="2"  Icon="Accept" Name="AdvancedDevelopment" Label="AdvancedDevelopment"   />
+        <AppBarToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="0"  Icon="Accept" Name="ITPro" Label="ITPro"   />
+        <AppBarToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="1"  Icon="Accept" Name="Web" Label="Web"  />
+        <AppBarToggleButton VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="2"  Icon="Accept" Name="OpenSession" Label="OpenSession"/>
+        <Button x:ConnectionId='1' Grid.Row="3" Grid.ColumnSpan="3" Content="Subscribe" HorizontalAlignment="Center"  VerticalAlignment="Center"                        />
+        <Button x:ConnectionId='2' Grid.Row="4" Grid.ColumnSpan="3" Content="Push" HorizontalAlignment="Center"  VerticalAlignment="Center"                   />
+    </Grid>
+</Page>
+

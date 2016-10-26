@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\ivan\desktop\wa_pushnotifications_wp8\wa_pushnotifications_wp8\obj\debug\intermediatexaml\kdpushnotification_wp.exe" HashGuid="e9c595f3-58cf-6603-01bc-2eaa8eda6779" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications_wp8\packages\windowsazure.messaging.managed.0.1.7.8\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications_wp8\packages\newtonsoft.json.6.0.3\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="c79997c3-e7ec-c6d9-80a0-b6fbe9a32ff1" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications_wp8\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\ivan\desktop\kulendayz\wa_pushnotifications_wp8\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

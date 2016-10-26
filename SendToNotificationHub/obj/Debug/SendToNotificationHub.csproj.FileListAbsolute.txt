@@ -1,0 +1,17 @@
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\imarkovic\Projects\WA_PushNotifications\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
+C:\Users\imarkovic\Projects\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\imarkovic\Projects\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+C:\Users\imarkovic\Projects\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+C:\Users\imarkovic\Projects\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\imarkovic\Projects\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\imarkovic\Projects\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\imarkovic\Projects\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
+C:\Users\imarkovic\Projects\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\KulenDayz\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\Ivan\Desktop\KulenDayz\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\Ivan\Desktop\KulenDayz\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
